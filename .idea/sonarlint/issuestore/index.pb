@@ -1,0 +1,30 @@
+
+W
+'SRP/oop/correct/services/car.service.ts,8\d\8d98e7adb724700f79c3c58cd6ef867b1f21f892
+O
+SRP/oop/mock/user.repository.ts,0\3\03d2478c4a17922416c9130bbddc8ec57dfbcf49
+X
+(SRP/oop/correct/services/user.service.ts,a\0\a06175e6dc505979d8a6dee1554e42f51b1f8dc8
+R
+"SRP/oop/correct/user.controller.ts,0\6\06ea70a78741b50ff04ae4ba112a730e86ea70d6
+P
+ SRP/oop/wrong/user.controller.ts,8\1\81970d6aff44c3c5ab8929c6eb48893f0ae1b846
+G
+OCP/oop/wrong/client.ts,b\a\ba7f577feb82c820ec532bace7a82f2b0ff005e5
+H
+OCP/oop/wrong/payment.ts,5\0\501945ab93ea52e89e362171594ecd41c68c0e61
+Y
+)OCP/oop/mock/wrong/card.payment-method.ts,9\4\94b9b7d57f7fe4d1ba5d061fa4ab6c55294a711d
+X
+(OCP/oop/mock/wrong/pix-payment-method.ts,d\f\dffc57ac70253b4bc61ad81db4fec7212a4b8129
+Z
+*OCP/oop/mock/correct/pix-payment-method.ts,a\0\a0b1b93acf46b4d1bfc331562fa4a3353032bbf5
+`
+0OCP/oop/mock/correct/payment-method.interface.ts,2\f\2f4724cef543e2e954b9ab19fd21d75ffc73cbbf
+[
++OCP/oop/mock/correct/card.payment-method.ts,9\a\9aae62938bc5dd01ebab2a10fe11819e3bbb87e5
+J
+OCP/oop/correct/payment.ts,9\2\925c15e1450a776b1f1c8c24ecbcc5e79f114d5c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
